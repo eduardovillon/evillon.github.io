@@ -66,7 +66,7 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
             labelContainer.childNodes[i].innerHTML = classPrediction;
         }
     }
-
+</script>
 
 <script src="https://www.gstatic.com/dialogflow-console/fast/messenger/bootstrap.js?v=1"></script>
 <df-messenger
@@ -75,6 +75,6 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
   agent-id="2cc68749-7119-4cfa-b9be-0bc365bcffdf"
   language-code="es"
 ></df-messenger>
-</script>
+
 
 
